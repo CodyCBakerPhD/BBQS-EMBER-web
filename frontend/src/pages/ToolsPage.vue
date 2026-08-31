@@ -5,12 +5,14 @@
       <q-card flat class="q-mt-lg">
         <q-card-section>
           <p>
-            The EMBER team is committed to developing a resource that will serve a wide range of
-            primary and secondary research needs. We are currently working closely with BBQS Data
-            Coordination and Artificial Intelligence Center (DCAIC) as well as a number of members
-            of the broader neurophysiology community to compile, optimize, or develop tools that can
-            be readily deployed on the EMBER-hosted data. Please contact the EMBER team if you wish
-            to get involved in these ongoing discussions.
+            Uploading to EMBER unlocks more than long-term storage — it connects your data to
+            HEARTH, our growing suite of tools for managing and processing data hosted on EMBER.
+            Below is our first release of these enabling tools for the BBQS consortium, showcasing
+            what becomes possible once EMBER is your data source. We're actively expanding this
+            toolkit with the BBQS Data Coordination and Artificial Intelligence Center (DCAIC) and
+            the broader neurophysiology community; contact the EMBER team if you'd like to get
+            involved. Looking for more general, non-EMBER-based resources? Visit the BBQS
+            <LinkText :link="links.bbqs_resources" />.
           </p>
         </q-card-section>
       </q-card>
@@ -24,8 +26,8 @@
             </div>
             <p>
               HEARTH (Hub for Exploratory Analysis, Resource-sharing, Testing, and
-              Hypothesis-generation) is EMBER's portal of apps for preparing and refining data
-              ahead of upload to the EMBER archive.
+              Hypothesis-generation) is EMBER's portal of apps for managing and processing data
+              hosted on EMBER — several tools can also run standalone outside the archive.
             </p>
           </div>
         </q-card-section>

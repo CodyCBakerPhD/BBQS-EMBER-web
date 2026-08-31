@@ -52,4 +52,8 @@ export const links: Record<string, Link> = {
     text: 'HEARTH',
     uri: 'https://www.hearth.emberarchive.org',
   },
+  bbqs_resources: {
+    text: 'resources page',
+    uri: 'https://brain-bbqs.org/resources',
+  },
 };
