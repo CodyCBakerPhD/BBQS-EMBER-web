@@ -5,14 +5,13 @@
       <q-card flat class="q-mt-lg">
         <q-card-section>
           <p>
-            Uploading to EMBER unlocks more than long-term storage — it connects your data to
-            HEARTH, our growing suite of tools for managing and processing data hosted on EMBER.
-            Below is our first release of these enabling tools for the BBQS consortium, showcasing
-            what becomes possible once EMBER is your data source. We're actively expanding this
-            toolkit with the BBQS Data Coordination and Artificial Intelligence Center (DCAIC) and
-            the broader neurophysiology community; contact the EMBER team if you'd like to get
-            involved. Looking for more general, non-EMBER-based resources? Visit the BBQS
-            <LinkText :link="links.bbqs_resources" />.
+            Uploading to EMBER unlocks more than just long-term storage of scientific data. It
+            connects your data to HEARTH, our growing suite of tools for managing and processing
+            data hosted on EMBER. Below is a growing list of enabling tools for the BBQS
+            consortium, showcasing what becomes possible once EMBER is your data source. We're
+            actively expanding this toolkit with the BBQS Data Coordination and Artificial
+            Intelligence Center (DCAIC) and the broader neurophysiology community; please contact
+            the EMBER team if you'd like to get involved.
           </p>
         </q-card-section>
       </q-card>
@@ -42,6 +41,11 @@
           </div>
         </q-card-section>
       </q-card>
+
+      <p class="text-caption text-grey q-mb-lg">
+        Looking for more general, non-EMBER-based resources? Visit the BBQS
+        <LinkText :link="links.bbqs_resources" />.
+      </p>
     </div>
   </q-page>
 </template>
