@@ -15,13 +15,13 @@ export interface HearthApp {
 export const hearthApps: HearthApp[] = [
   {
     name: 'Clip Extractor',
-    description: 'Trim and annotate video clips from data hosted on EMBER.',
+    description: 'Trim, describe, & share video clips from data hosted on EMBER.',
     uri: 'https://clip-extractor.brain-bbqs.org',
     logo: '/hearth/clip-extractor-logo.svg',
   },
   {
     name: 'Encoding Helper',
-    description: 'Inspect and tune the video encoding of data hosted on EMBER.',
+    description: 'Inspect and tune the video encoding of video files.',
     uri: 'https://encoding-helper.brain-bbqs.org',
     logo: '/hearth/encoding-helper-logo.svg',
   },
