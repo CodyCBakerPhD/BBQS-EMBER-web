@@ -14,12 +14,6 @@ export interface HearthApp {
 
 export const hearthApps: HearthApp[] = [
   {
-    name: 'Upload',
-    description: 'Upload recordings and files into the EMBER archive.',
-    uri: 'https://upload.brain-bbqs.org',
-    logo: '/hearth/upload-logo.svg',
-  },
-  {
     name: 'Clip Extractor',
     description: 'Trim and annotate video clips from data hosted on EMBER.',
     uri: 'https://clip-extractor.brain-bbqs.org',
