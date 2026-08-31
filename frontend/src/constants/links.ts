@@ -48,4 +48,12 @@ export const links: Record<string, Link> = {
     text: 'Open Data',
     uri: 'https://registry.opendata.aws/ember',
   },
+  hearth: {
+    text: 'HEARTH',
+    uri: 'https://www.hearth.emberarchive.org',
+  },
+  sleap: {
+    text: 'SLEAP',
+    uri: 'https://sleap.ai/',
+  },
 };
