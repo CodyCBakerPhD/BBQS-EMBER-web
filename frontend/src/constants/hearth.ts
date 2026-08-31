@@ -21,7 +21,7 @@ export const hearthApps: HearthApp[] = [
   },
   {
     name: 'Encoding Helper',
-    description: 'Inspect and tune the video encoding of video files.',
+    description: 'Inspect and tune the internal encoding of video files.',
     uri: 'https://encoding-helper.brain-bbqs.org',
     logo: '/hearth/encoding-helper-logo.svg',
   },
