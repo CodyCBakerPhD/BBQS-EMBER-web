@@ -52,8 +52,4 @@ export const links: Record<string, Link> = {
     text: 'HEARTH',
     uri: 'https://www.hearth.emberarchive.org',
   },
-  sleap: {
-    text: 'SLEAP',
-    uri: 'https://sleap.ai/',
-  },
 };

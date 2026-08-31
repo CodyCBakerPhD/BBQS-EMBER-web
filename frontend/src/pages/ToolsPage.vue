@@ -9,9 +9,8 @@
             primary and secondary research needs. We are currently working closely with BBQS Data
             Coordination and Artificial Intelligence Center (DCAIC) as well as a number of members
             of the broader neurophysiology community to compile, optimize, or develop tools that can
-            be readily deployed on the EMBER-hosted data. This includes integrating pose-estimation
-            tools such as <LinkText :link="links.sleap" /> alongside other tool development efforts.
-            Please contact the EMBER team if you wish to get involved in these ongoing discussions.
+            be readily deployed on the EMBER-hosted data. Please contact the EMBER team if you wish
+            to get involved in these ongoing discussions.
           </p>
         </q-card-section>
       </q-card>
