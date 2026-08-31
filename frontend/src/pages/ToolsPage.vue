@@ -7,11 +7,14 @@
           <p>
             Uploading to EMBER unlocks more than just long-term storage of scientific data. It
             connects your data to HEARTH, our growing suite of tools for managing and processing
-            data hosted on EMBER. Below is a growing list of enabling tools for the BBQS
-            consortium, showcasing what becomes possible once EMBER is your data source. We're
-            actively expanding this toolkit with the BBQS Data Coordination and Artificial
-            Intelligence Center (DCAIC) and the broader neurophysiology community; please contact
-            the EMBER team if you'd like to get involved.
+            data hosted on EMBER.
+          </p>
+          <p>
+            Below is a growing list of enabling tools for the BBQS consortium, showcasing what
+            becomes possible once EMBER is your data source. We're actively expanding this
+            toolkit with the BBQS Data Coordination and Artificial Intelligence Center (DCAIC) and
+            the broader neurophysiology community; please contact the EMBER team if you'd like to
+            get involved.
           </p>
         </q-card-section>
       </q-card>
